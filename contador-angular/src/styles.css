@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+
+.caixa{
+  margin: 50px;
+  padding: 80px;
+  background-color: #0f9b2e;
+  
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+  background-color: #0f9b2e;
+}
+
+.container {
+  text-align: center;
+  margin-top: 50px;
+  color: aliceblue;
+}
+button {
+  width: 100px;
+  height: 40px;
+  border-radius: 7px;
+}
+.flutuante{
+  width: 100px;
+  weight: 100px;px;
+  background-color: blue;
+  color:white;
+}
